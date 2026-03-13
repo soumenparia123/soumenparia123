@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Soumen Paria
 
-<!--
-**soumenparia123/soumenparia123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI/ML) Student  
+💻 Aspiring Web Developer & Frontend Developer  
 
-Here are some ideas to get you started:
+I am passionate about building modern and responsive web applications.  
+I enjoy creating user-friendly interfaces and learning new web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,cpp,python" />
+</p>
+
+---
+
+## 💻 What I Do
+- Frontend Web Development  
+- Building responsive websites  
+- Learning modern JavaScript frameworks like React  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/soumen-paria-b6a547339
+- X (Twitter): https://x.com/SParia20958
